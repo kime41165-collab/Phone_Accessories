@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard'
 import img1 from '../images/photo_01.jpg'
 import img from '../images/photo.jpg'
 import Card from '../components/Card'
-import img12 from '../images/photo_21.jpg'
+import img21 from '../images/photo_21.jpg'
 import img22 from '../images/photo_22.jpg'
 import img23 from '../images/photo_23.jpg'
 
