@@ -63,7 +63,7 @@ function RootLayout() {
 
               <NavLink to="/" className="bg-amber-100 flex items-center gap-1 p-2 m-2 hover:bg-amber-200 rounded-xl">
                 <FaUser className="text-xl"/>
-                <Link to="/contect">
+                <Link to="/contact">
                 <span className="text-xl">Contect</span>
                 </Link>
               </NavLink> 
