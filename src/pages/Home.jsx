@@ -4,6 +4,10 @@ import ProductCard from '../components/ProductCard'
 import img1 from '../images/photo_01.jpg'
 import img from '../images/photo.jpg'
 import Card from '../components/Card'
+import img12 from '../images/photo_21.jpg'
+import img22 from '../images/photo_22.jpg'
+import img23 from '../images/photo_23.jpg'
+
 
 function Home() {
   return (
@@ -29,13 +33,13 @@ function Home() {
 
         <div className='flex flex-wrap justify-center gap-8'>
           <div>
-            <img src="src/images/photo_21.jpg" alt="" className=' h-70 w-50 mx-8 rounded-xl' />
+            <img src={img21} alt="" className=' h-70 w-50 mx-8 rounded-xl' />
           </div>
           <div>
-            <img src="src/images/photo_22.jpg" alt="" className=' h-70 w-50 mx-8 rounded-xl' />
+            <img src={img22} alt="" className=' h-70 w-50 mx-8 rounded-xl' />
           </div>
           <div>
-            <img src="src/images/photo_23.jpg" alt="" className=' h-70 w-50 mx-8 rounded-xl' />
+            <img src={img23} alt="" className=' h-70 w-50 mx-8 rounded-xl' />
           </div>
         </div>
 
